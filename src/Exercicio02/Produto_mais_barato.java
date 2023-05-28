@@ -7,7 +7,7 @@ public class Produto_mais_barato {
         double produto1 = 0;
         double produto2 = 0;
         double produto3 = 0;
-        double maisBarato;
+
 
         System.out.println("Comparação de preço de produtos.");
         System.out.println("Digite o valor de 3 produtos a sua escolha: \n");
